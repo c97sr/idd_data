@@ -1,0 +1,51 @@
+"ISO3","ISO2","COUNTRY","REPORTSITE_CODE","ISO_YEAR","ISO_WEEK","MEASURE_CODE","AGEGROUP_CODE","ValueString","ValueNumeric"
+"CAN","CA","Canada","CAN001",2019,22,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,25,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,24,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,27,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,17,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,23,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,30,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,29,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,32,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,18,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,28,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,34,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,21,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,26,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,31,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,19,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,33,"SARI_CASES","All",,
+"CAN","CA","Canada","CAN001",2019,20,"SARI_CASES","All",,
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","15TO49","4","4"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","All","90","90"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","0TO1","25","25"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","65TO","1","1"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","5TO14","19","19"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","50TO64","1","1"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","UNKNOWN","0","0"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","2TO4","13","13"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_OUTPATIENTS","15TO49","31","31"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","5TO14","4","4"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","50TO64","0","0"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","UNKNOWN","0","0"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","65TO","0","0"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","2TO4","9","9"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","All","25","25"
+"GIN","GN","Guinea","GIN001",2019,1,"ILI_CASES","0TO1","8","8"
+"JOR","JO","Jordan","JOR001",2019,1,"SARI_CASES","2TO4","1","1"
+"JOR","JO","Jordan","JOR001",2020,4,"SARI_CASES","50TO64","1","1"
+"QAT","QA","Qatar","QAT001",2019,1,"SARI_CASES","15TO49","4","4"
+"QAT","QA","Qatar","QAT001",2019,1,"SARI_CASES","65TO","1","1"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","50TO64","33","33"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","5TO14","10","10"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","0TO1","8","8"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","50TO64","7","7"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","2TO4","9","9"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","15TO49","75","75"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","65TO","4","4"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","5TO14","2","2"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","15TO49","10","10"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","65TO","61","61"
+"SAU","SA","Saudi Arabia","SAU001",2019,2,"SARI_CASES","2TO4","2","2"
+"SAU","SA","Saudi Arabia","SAU001",2019,1,"SARI_CASES","0TO1","59","59"
